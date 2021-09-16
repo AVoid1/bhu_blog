@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211286480205",
+    "project_id": "bhu-blog",
+    "storage_bucket": "bhu-blog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211286480205:android:8d8327de0ae454ffa81304",
+        "android_client_info": {
+          "package_name": "com.void.bhu_blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211286480205-t4t6pmb622fq9avfknf4anki2k53q3hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCedWNbAVWQtCZz6mnf2cXJQ2OR2B6Z-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211286480205-t4t6pmb622fq9avfknf4anki2k53q3hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
